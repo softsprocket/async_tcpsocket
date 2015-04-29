@@ -1,4 +1,4 @@
-#ReadyPool
+#AsyncTCPSocket
 ##Ruby Asynchronous TCP Socket Implementation 
 ###Example
 ```ruby
